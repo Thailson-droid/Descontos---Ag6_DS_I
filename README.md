@@ -13,9 +13,6 @@ Programa em Python que calcula o valor final de uma compra aplicando descontos c
 - Python
 - Estruturas condicionais: `if`, `elif` e `else`
  
-## Imagem do projeto
- 
-![Calculadora de descontos](https://placehold.co/800x400?text=Calculadora+de+Descontos)
  
 ## Como executar
  
